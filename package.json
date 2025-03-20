@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/Edward-okoto/Github-Actions-CI-CD-Project.git"
   },
-  "author": "Edward Okoto",
+  "author": "Eddie Okoto",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Edward-okoto/Github-Actions-CI-CD-Project/issues"
@@ -20,6 +20,6 @@
     "express": "^4.21.2"
   },
   "devDependencies": {
-    "jest": "^29.0.0"
+    "jest": "^29.7.0"
   }
 }
