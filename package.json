@@ -3,20 +3,23 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Edward-okoto/Github-Actions-CI-CD-Project.git"
   },
-  "author": "",
+  "author": "Edward Okoto",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Edward-okoto/Github-Actions-CI-CD-Project/issues"
   },
   "homepage": "https://github.com/Edward-okoto/Github-Actions-CI-CD-Project#readme",
-  "description": "",
+  "description": "A CI/CD project using GitHub Actions",
   "dependencies": {
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
   }
 }
